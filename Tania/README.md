@@ -6,5 +6,5 @@ Edita este archivo. Aquí debes incluir los enlaces a los documentos de Overleaf
 
 Solo pegando la url https://www.overleaf.com/read/nkqtbfwdcgvw o con [hipervínculos](https://www.overleaf.com/read/nkqtbfwdcgvw).
 
-###### ¡Recuerda!
+#### ¡Recuerda!
 Tus enlaces de Overleaf deben tener permisos de edición y lectura.
