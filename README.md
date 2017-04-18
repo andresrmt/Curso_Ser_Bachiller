@@ -10,3 +10,7 @@ Cada carpeta consta de un archivo 'README.md', el cual deben editar e incluir su
 
 ## Repositorio recomendado
 [Curso de LaTeX AsoiMat](https://github.com/andresrmt/Curso_LaTeX_AsoiMat)
+
+## Programas recomendados
+[GitHub Desktop](http://desktop.github.com/)
+[GeoGebra](http://geogebra.org/)
