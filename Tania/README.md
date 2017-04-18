@@ -1,8 +1,10 @@
-# Banco de preguntas - Examen Ser Bachiller
-En este repositorio constarán los archivos de la resolución del banco de preguntas para el curso preparatorio del examen Ser Bachiller.
+# Banco de preguntas
+Edita este archivo. Aquí debes incluir los enlaces a los documentos de Overleaf que vayas desarrollando.
 
-## Organización
-Cada tutor tiene su propia carpeta, en la cual deben cargar sus respectivos archivos.
+* Puedes hacerlo
+* En una lista
 
-### Importante:
-Cada carpeta consta de un archivo 'README.md', el cual deben editar e incluir sus enlaces a overleaf, estos enlaces deben constar con permisos de edición y lectura.
+Solo pegando la url https://www.overleaf.com/read/nkqtbfwdcgvw o con [hipervínculos](https://www.overleaf.com/read/nkqtbfwdcgvw).
+
+###### ¡Recuerda!
+Tus enlaces de Overleaf deben tener permisos de edición y lectura.
