@@ -7,6 +7,8 @@ Cada tutor tiene su propia carpeta, en la cual deben cargar sus respectivos arch
 ### Importante:
 Cada carpeta consta de un archivo 'README.md', el cual deben editar e incluir sus enlaces a overleaf, estos enlaces deben constar con permisos de edición y lectura.
 
+## Carpeta 'Gráficos'
+Aquí iré añadiendo los gráficos que resultan complejos para trazar en GeoGebra. Pueden ir copiándolos en sus proyectos cuando sea necesario.
 
 ## Repositorio recomendado
 [Curso de LaTeX AsoiMat](https://github.com/andresrmt/Curso_LaTeX_AsoiMat)
