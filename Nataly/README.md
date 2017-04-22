@@ -10,3 +10,4 @@ Solo pegando la url https://www.overleaf.com/read/nkqtbfwdcgvw o con [hipervínc
 Tus enlaces de Overleaf deben tener permisos de edición y lectura.
 Mi enlace de oveleaf:
 https://www.overleaf.com/8948383rqcfmndtgggv
+Link Nataly : https://www.overleaf.com/9146262rsnzpfgffhzc
