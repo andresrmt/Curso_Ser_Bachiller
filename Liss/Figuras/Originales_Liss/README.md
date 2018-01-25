@@ -1,1 +1,0 @@
-Linda propuesta, pero puede generar problemas.
